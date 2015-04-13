@@ -1,0 +1,17 @@
+{
+  "name": "Chart.Scatter",
+  "main": "Chart.Scatter.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/MOXA-WEB/Chart.Scatter",
+  "authors": [
+    "zackyang <zack9433@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
